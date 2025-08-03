@@ -1,0 +1,104 @@
+date_of_birth, name    , breed                         , color , height_cm, weight_kg
+2020-05-15   , Buddy   , Golden Retriever              , Red   ,        60,        30
+2018-09-01   , Lucy    , Labrador                      , Orange,        58,        28
+2021-02-20   , Max     , German Shepherd               , Yellow,        65,        38
+2019-11-10   , Bella   , Poodle (Standard)             , Green ,        50,        22
+2022-03-25   , Charlie , Beagle                        , Blue  ,        35,        12
+2017-07-07   , Daisy   , Bulldog                       , Indigo,        40,        25
+2020-01-01   , Rocky   , Siberian Husky                , Violet,        55,        23
+2019-04-18   , Sadie   , Dachshund                     , Red   ,        20,         8
+2021-06-30   , Duke    , Rottweiler                    , Orange,        68,        45
+2018-12-12   , Luna    , Shih Tzu                      , Yellow,        28,         7
+2019-03-10   , Cooper  , Boxer                         , Green ,        62,        32
+2020-08-05   , Bailey  , Yorkshire Terrier             , Blue  ,        25,         3
+2017-01-20   , Jack    , Border Collie                 , Indigo,        53,        19
+2022-04-01   , Sophie  , Pug                           , Violet,        30,         8
+2018-06-15   , Toby    , Australian Shepherd           , Red   ,        55,        25
+2021-09-22   , Zoe     , Chihuahua                     , Orange,        18,         2
+2019-07-03   , Bear    , Great Dane                    , Yellow,        80,        60
+2020-10-17   , Ruby    , Cavalier King Charles Spaniel , Green ,        33,         6
+2017-02-28   , Leo     , Doberman Pinscher             , Blue  ,        70,        40
+2022-01-05   , Molly   , French Bulldog                , Indigo,        30,        13
+2018-03-19   , Jax     , Pit Bull                      , Violet,        50,        28
+2021-05-08   , Coco    , Bichon Frise                  , Red   ,        28,         6
+2019-09-14   , Gizmo   , Pomeranian                    , Orange,        20,         3
+2020-11-29   , Penny   , Boston Terrier                , Yellow,        38,         9
+2017-04-04   , Zeus    , Bernese Mountain Dog          , Green ,        68,        48
+2022-06-11   , Chloe   , Shetland Sheepdog             , Blue  ,        40,        10
+2018-01-26   , Gus     , Basset Hound                  , Indigo,        35,        25
+2021-07-16   , Stella  , Maltese                       , Violet,        25,         4
+2019-02-09   , Sam     , Rottweiler                    , Red   ,        68,        46
+2020-04-22   , Layla   , Shih Tzu                      , Orange,        28,         7
+2017-08-11   , Bentley , German Shorthaired Pointer    , Yellow,        60,        28
+2022-02-14   , Willow  , Vizsla                        , Green ,        58,        22
+2018-05-03   , Dakota  , Australian Cattle Dog         , Blue  ,        48,        20
+2021-03-01   , Milo    , Corgi                         , Indigo,        30,        12
+2019-10-27   , Roxy    , American Staffordshire Terrier, Violet,        48,        26
+2020-12-05   , Shadow  , Standard Poodle               , Red   ,        55,        24
+2017-06-19   , Ginger  , Cocker Spaniel                , Orange,        38,        13
+2022-05-20   , Apollo  , Weimaraner                    , Yellow,        65,        35
+2018-02-07   , Maggie  , Bichon Frise                  , Green ,        28,         5
+2021-08-10   , Oscar   , Shiba Inu                     , Blue  ,        40,        10
+2019-01-30   , Rosie   , Miniature Schnauzer           , Indigo,        35,         8
+2020-03-14   , Winston , English Bulldog               , Violet,        40,        24
+2017-09-25   , Frankie , Golden Retriever              , Red   ,        60,        30
+2022-07-01   , Daisy   , Labrador Retriever            , Orange,        58,        29
+2018-04-09   , Gunner  , German Shepherd               , Yellow,        65,        39
+2021-01-12   , Lily    , Poodle (Miniature)            , Green ,        30,         7
+2019-08-03   , Maximus , Beagle                        , Blue  ,        38,        14
+2020-06-20   , Stella  , Bulldog                       , Indigo,        40,        26
+2017-05-05   , Koda    , Siberian Husky                , Violet,        55,        24
+2022-04-28   , Hazel   , Dachshund                     , Red   ,        22,         9
+2018-10-11   , Rex     , Rottweiler                    , Orange,        70,        48
+2021-02-01   , Chloe   , Shih Tzu                      , Yellow,        26,         6
+2019-03-29   , Finn    , Boxer                         , Green ,        62,        33
+2020-07-15   , Millie  , Yorkshire Terrier             , Blue  ,        23,         3
+2017-11-02   , Louie   , Border Collie                 , Indigo,        53,        20
+2022-01-18   , Piper   , Pug                           , Violet,        30,         9
+2018-07-24   , Diesel  , Australian Shepherd           , Red   ,        55,        26
+2021-09-05   , Peanut  , Chihuahua                     , Orange,        18,         2
+2019-06-10   , King    , Great Dane                    , Yellow,        78,        58
+2020-10-01   , Sophie  , Cavalier King Charles Spaniel , Green ,        33,         7
+2017-03-08   , Bruno   , Doberman Pinscher             , Blue  ,        68,        39
+2022-03-03   , Layla   , French Bulldog                , Indigo,        32,        14
+2018-09-17   , Boomer  , Pit Bull                      , Violet,        50,        29
+2021-04-14   , Willow  , Bichon Frise                  , Red   ,        28,         6
+2019-05-21   , Patches , Pomeranian                    , Orange,        22,         4
+2020-11-09   , Olive   , Boston Terrier                , Yellow,        38,        10
+2017-01-01   , Rocky   , Bernese Mountain Dog          , Green ,        70,        50
+2022-06-05   , Loki    , Shetland Sheepdog             , Blue  ,        42,        11
+2018-12-30   , Apollo  , Basset Hound                  , Indigo,        36,        26
+2021-07-28   , Mia     , Maltese                       , Violet,        25,         5
+2019-02-23   , Bubba   , Rottweiler                    , Red   ,        68,        47
+2020-04-07   , Cookie  , Shih Tzu                      , Orange,        27,         6
+2017-08-19   , Ace     , German Shorthaired Pointer    , Yellow,        60,        29
+2022-02-28   , Copper  , Vizsla                        , Green ,        58,        23
+2018-05-12   , Blue    , Australian Cattle Dog         , Blue  ,        48,        21
+2021-03-20   , Ruby    , Corgi                         , Indigo,        30,        13
+2019-10-04   , Smokey  , American Staffordshire Terrier, Violet,        48,        27
+2020-12-18   , Spirit  , Standard Poodle               , Red   ,        55,        25
+2017-06-25   , Honey   , Cocker Spaniel                , Orange,        38,        14
+2022-05-09   , Athena  , Weimaraner                    , Yellow,        65,        36
+2018-02-15   , Pixie   , Bichon Frise                  , Green ,        28,         5
+2021-08-22   , Kiko    , Shiba Inu                     , Blue  ,        40,        11
+2019-01-07   , Pepper  , Miniature Schnauzer           , Indigo,        35,         9
+2020-03-01   , Roscoe  , English Bulldog               , Violet,        40,        25
+2017-09-10   , Sunny   , Golden Retriever              , Red   ,        60,        31
+2022-07-15   , Leo     , Labrador Retriever            , Orange,        58,        30
+2018-04-20   , Storm   , German Shepherd               , Yellow,        65,        40
+2021-01-25   , Zoe     , Poodle (Toy)                  , Green ,        25,         4
+2019-08-16   , Buddy   , Beagle                        , Blue  ,        38,        13
+2020-06-03   , Penny   , Bulldog                       , Indigo,        40,        24
+2017-05-18   , Apollo  , Siberian Husky                , Violet,        55,        22
+2022-04-05   , Lucky   , Dachshund                     , Red   ,        20,         8
+2018-10-28   , Zeus    , Rottweiler                    , Orange,        70,        47
+2021-02-17   , Ella    , Shih Tzu                      , Yellow,        28,         7
+2019-03-05   , Duke    , Boxer                         , Green ,        62,        31
+2020-07-02   , Cleo    , Yorkshire Terrier             , Blue  ,        23,         4
+2017-11-15   , Rocky   , Border Collie                 , Indigo,        53,        18
+2022-01-30   , Winnie  , Pug                           , Violet,        30,         8
+2018-07-07   , Cooper  , Australian Shepherd           , Red   ,        55,        24
+2021-09-12   , Princess, Chihuahua                     , Orange,        18,         2
+2019-06-28   , Thor    , Great Dane                    , Yellow,        80,        62
+2020-10-25   , Willow  , Cavalier King Charles Spaniel , Green ,        33,         6
+2017-03-12   , Shadow  , Doberman Pinscher             , Blue  ,        68,        38

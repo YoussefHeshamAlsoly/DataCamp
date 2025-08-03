@@ -6,10 +6,10 @@ date_of_birth,name,breed,color,height_cm,weight_kg
 2022-03-25,Charlie,Beagle,Blue,35,12
 2017-07-07,Daisy,Bulldog,Indigo,40,25
 2020-01-01,Rocky,Siberian Husky,Violet,55,23
-2019-04-18,Sadie,Dachshund,Red,20,8
-2021-06-30,Duke,Rottweiler,Orange,68,45
-2018-12-12,Luna,Shih Tzu,Yellow,28,7
-2019-03-10,Cooper,Boxer,Green,62,32
+2019-04-18,Sadie,Dachshund,Red,,8
+2021-06-30,Duke,Rottweiler,Orange,68,
+2018-12-12,Luna,Shih Tzu,Yellow,,7
+2019-03-10,,Boxer,Green,62,32
 2020-08-05,Bailey,Yorkshire Terrier,Blue,25,3
 2017-01-20,Jack,Border Collie,Indigo,53,19
 2022-04-01,Sophie,Pug,Violet,30,8
@@ -102,3 +102,324 @@ date_of_birth,name,breed,color,height_cm,weight_kg
 2019-06-28,Thor,Great Dane,Yellow,80,62
 2020-10-25,Willow,Cavalier King Charles Spaniel,Green,33,6
 2017-03-12,Shadow,Doberman Pinscher,Blue,68,38
+2018-08-14,Zephyr,Siberian Husky,,55,23
+2021-05-29,Sasha,Dachshund,Orange,22,
+2019-11-20,Ghost,Rottweiler,Yellow,70,47
+2020-09-08,Bella,Shih Tzu,Green,,7
+2017-06-16,,Boxer,Blue,62,33
+2022-02-10,Oliver,Yorkshire Terrier,Indigo,23,3
+2018-03-02,Willow,Border Collie,,53,20
+2021-04-25,Chloe,Pug,Red,30,9
+2019-10-09,Titus,Australian Shepherd,Orange,55,26
+2020-02-05,Jax,Chihuahua,Yellow,18,
+2017-08-20,Bear,Great Dane,Green,,60
+2022-01-11,Minnie,Cavalier King Charles Spaniel,Blue,33,7
+2018-07-28,Storm,Doberman Pinscher,Indigo,68,39
+2021-03-17,Stella,French Bulldog,Violet,32,14
+2019-05-01,Gunner,Pit Bull,Red,50,29
+2020-06-12,Lola,Bichon Frise,Orange,28,6
+2017-04-10,Coco,Pomeranian,Yellow,22,4
+2022-07-20,Milo,Boston Terrier,Green,38,10
+2018-12-01,Diesel,Bernese Mountain Dog,Blue,70,50
+2021-08-08,Mochi,Shetland Sheepdog,Indigo,42,11
+2019-02-25,Apollo,Basset Hound,Violet,36,26
+2020-04-03,Luna,Maltese,Red,25,5
+2017-09-22,Titan,Rottweiler,Orange,68,47
+2022-02-20,Jasper,Shih Tzu,Yellow,27,6
+2018-06-08,Kona,German Shorthaired Pointer,Green,60,29
+2021-01-05,Lily,Vizsla,Blue,58,23
+2019-08-11,Winston,Australian Cattle Dog,Indigo,48,21
+2020-07-30,Piper,Corgi,Violet,30,13
+2017-10-01,Hank,American Staffordshire Terrier,Red,48,27
+2022-05-18,Layla,Standard Poodle,Orange,55,25
+2018-01-15,Bentley,Cocker Spaniel,Yellow,38,14
+2021-06-03,Willow,Weimaraner,Green,65,36
+2019-04-08,Jack,Bichon Frise,Blue,28,5
+2020-03-25,Penny,Shiba Inu,Indigo,40,11
+2017-11-08,Oscar,Miniature Schnauzer,Violet,35,9
+2022-03-09,Lucy,English Bulldog,Red,40,25
+2018-09-05,Daisy,Golden Retriever,Orange,60,31
+2021-05-11,Molly,Labrador Retriever,Yellow,58,30
+2019-01-20,Max,German Shepherd,Green,65,40
+2020-08-18,Chloe,Poodle (Toy),Blue,25,4
+2017-02-14,Toby,Beagle,Indigo,38,13
+2022-04-16,Bailey,Bulldog,Violet,40,24
+2018-10-05,Leo,Siberian Husky,Red,55,22
+2021-03-05,Milo,Dachshund,Orange,20,8
+2019-09-29,Coco,Rottweiler,Yellow,70,47
+2020-01-18,Sophie,Shih Tzu,Green,28,7
+2017-07-02,Duke,Boxer,Blue,62,31
+2022-05-25,Bear,Yorkshire Terrier,Indigo,23,4
+2018-11-28,Rosie,Border Collie,Violet,53,18
+2021-04-01,Gizmo,Pug,Red,30,8
+2019-06-01,Winston,Australian Shepherd,Orange,55,24
+2020-10-10,Penny,Chihuahua,Yellow,18,2
+2017-05-20,Charlie,Great Dane,Green,80,62
+2022-01-02,Ruby,Cavalier King Charles Spaniel,Blue,33,6
+2018-04-10,Shadow,Doberman Pinscher,Indigo,68,38
+2021-07-07,Luna,French Bulldog,Violet,32,14
+2019-03-21,Jax,Pit Bull,Red,50,29
+2020-02-28,Chloe,Bichon Frise,Orange,28,6
+2017-10-15,Frankie,Pomeranian,Yellow,22,4
+2022-06-15,Maximus,Boston Terrier,Green,38,10
+2018-08-01,Cooper,Bernese Mountain Dog,Blue,70,50
+2021-09-02,Molly,Shetland Sheepdog,Indigo,42,11
+2019-02-12,Milo,Basset Hound,Violet,36,26
+2020-04-14,Stella,Maltese,Red,25,5
+2017-08-29,Zeus,Rottweiler,Orange,68,47
+2022-02-09,Lucy,Shih Tzu,Yellow,27,6
+2018-05-19,Layla,German Shorthaired Pointer,Green,60,29
+2021-03-29,Winston,Vizsla,Blue,58,23
+2019-10-21,Oliver,Australian Cattle Dog,Indigo,48,21
+2020-12-01,Rosie,Corgi,Violet,30,13
+2017-06-08,Bella,American Staffordshire Terrier,Red,48,27
+2022-05-15,Toby,Standard Poodle,Orange,55,25
+2018-01-22,Sophie,Cocker Spaniel,Yellow,38,14
+2021-06-19,Duke,Weimaraner,Green,65,36
+2019-04-20,Daisy,Bichon Frise,Blue,28,5
+2020-03-05,Piper,Shiba Inu,Indigo,40,11
+2017-11-20,Jack,Miniature Schnauzer,Violet,35,9
+2022-03-20,Coco,English Bulldog,Red,40,25
+2018-09-11,Buddy,Golden Retriever,Orange,60,31
+2021-05-19,Luna,Labrador Retriever,Yellow,58,30
+2019-01-02,Leo,German Shepherd,Green,65,40
+2020-08-25,Maggie,Poodle (Toy),Blue,25,4
+2017-02-20,Gus,Beagle,Indigo,38,13
+2022-04-21,Chloe,Bulldog,Violet,40,24
+2018-10-18,Dakota,Siberian Husky,Red,55,22
+2021-03-10,Penny,Dachshund,Orange,20,8
+2019-09-05,Gizmo,Rottweiler,Yellow,70,47
+2020-01-28,Molly,Shih Tzu,Green,28,7
+2017-07-10,Rocky,Boxer,Blue,62,31
+2022-05-30,Frankie,Yorkshire Terrier,Indigo,23,4
+2018-11-09,Sam,Border Collie,Violet,53,18
+2021-04-09,Bentley,Pug,Red,30,8
+2019-06-15,Shadow,Australian Shepherd,Orange,55,24
+2020-10-15,Winnie,Chihuahua,Yellow,18,2
+2017-05-28,Apollo,Great Dane,Green,80,62
+2022-01-14,Ruby,Cavalier King Charles Spaniel,Blue,33,6
+2018-04-22,Titus,Doberman Pinscher,Indigo,68,38
+2021-07-10,Layla,French Bulldog,Violet,32,14
+2019-03-25,Cooper,Pit Bull,Red,50,29
+2020-02-20,Lucy,Bichon Frise,Orange,28,6
+2017-10-20,Piper,Pomeranian,Yellow,22,4
+2022-06-20,Layla,Boston Terrier,Green,38,10
+2018-08-08,Zeus,Bernese Mountain Dog,Blue,70,50
+2021-09-10,Milo,Shetland Sheepdog,Indigo,42,11
+2019-02-18,Mochi,Basset Hound,Violet,36,26
+2020-04-18,Stella,Maltese,Red,25,5
+2017-08-01,Daisy,Rottweiler,Orange,68,47
+2022-02-12,Chloe,Shih Tzu,Yellow,27,6
+2018-05-25,Louie,German Shorthaired Pointer,Green,60,29
+2021-03-25,Toby,Vizsla,Blue,58,23
+2019-10-25,Rex,Australian Cattle Dog,Indigo,48,21
+2020-12-25,Ginger,Corgi,Violet,30,13
+2017-06-12,Molly,American Staffordshire Terrier,Red,48,27
+2022-05-22,Luna,Standard Poodle,Orange,55,25
+2018-01-29,Rosie,Cocker Spaniel,Yellow,38,14
+2021-06-25,Jasper,Weimaraner,Green,65,36
+2019-04-25,Penny,Bichon Frise,Blue,28,5
+2020-03-09,Apollo,Shiba Inu,Indigo,40,11
+2017-11-25,Bailey,Miniature Schnauzer,Violet,35,9
+2022-03-28,Oscar,English Bulldog,Red,40,25
+2018-09-18,Winston,Golden Retriever,Orange,60,31
+2021-05-25,Sadie,Labrador Retriever,Yellow,58,30
+2019-01-05,Koda,German Shepherd,Green,65,40
+2020-08-30,Piper,Poodle (Toy),Blue,25,4
+2017-02-25,Chloe,Beagle,Indigo,38,13
+2022-04-26,Gus,Bulldog,Violet,40,24
+2018-10-20,Stella,Siberian Husky,Red,55,22
+2021-03-15,Duke,Dachshund,Orange,20,8
+2019-09-10,Rocky,Rottweiler,Yellow,70,47
+2020-01-30,Willow,Shih Tzu,Green,28,7
+2017-07-15,Milo,Boxer,Blue,62,31
+2022-05-02,Sophie,Yorkshire Terrier,Indigo,23,4
+2018-11-15,Patches,Border Collie,Violet,53,18
+2021-04-12,Cleo,Pug,Red,30,8
+2019-06-20,Molly,Australian Shepherd,Orange,55,24
+2020-10-20,Zephyr,Chihuahua,Yellow,18,2
+2017-05-30,Thor,Great Dane,Green,80,62
+2022-01-20,Ruby,Cavalier King Charles Spaniel,Blue,33,6
+2018-04-28,Shadow,Doberman Pinscher,Indigo,68,38
+2021-07-20,Layla,French Bulldog,Violet,32,14
+2019-03-27,Cooper,Pit Bull,Red,50,29
+2020-02-25,Lucy,Bichon Frise,Orange,28,6
+2017-10-25,Piper,Pomeranian,Yellow,22,4
+2022-06-25,Layla,Boston Terrier,Green,38,10
+2018-08-10,Zeus,Bernese Mountain Dog,Blue,70,50
+2021-09-15,Milo,Shetland Sheepdog,Indigo,42,11
+2019-02-20,Mochi,Basset Hound,Violet,36,26
+2020-04-20,Stella,Maltese,Red,25,5
+2017-08-05,Daisy,Rottweiler,Orange,68,47
+2022-02-17,Chloe,Shih Tzu,Yellow,27,6
+2018-05-28,Louie,German Shorthaired Pointer,Green,60,29
+2021-03-27,Toby,Vizsla,Blue,58,23
+2019-10-29,Rex,Australian Cattle Dog,Indigo,48,21
+2020-12-28,Ginger,Corgi,Violet,30,13
+2017-06-16,,Bulldog,Indigo,,25
+2020-07-18,Apollo,Pomeranian,Orange,20,
+2018-03-22,Sam,Cavalier King Charles Spaniel,,33,6
+2021-01-08,,Shih Tzu,,28,7
+2019-06-08,Bella,Boxer,Green,62,
+2022-04-12,Maximus,Yorkshire Terrier,Blue,,3
+2017-01-25,Milo,Border Collie,Indigo,53,
+2020-09-10,,Pug,Violet,,8
+2018-07-02,Piper,Australian Shepherd,Red,,25
+2021-06-28,Coco,Chihuahua,Orange,,2
+2019-07-15,Rocky,,Yellow,80,
+2020-11-05,,Cavalier King Charles Spaniel,Green,33,
+2017-03-01,Bear,Doberman Pinscher,Blue,,40
+2022-03-08,Molly,French Bulldog,Indigo,30,
+2018-09-20,Jax,Pit Bull,,50,28
+2021-04-18,Penny,,Red,28,
+2019-05-25,Louie,Pomeranian,Orange,,3
+2020-11-15,Olive,Boston Terrier,,38,
+2017-04-20,Zeus,Bernese Mountain Dog,,68,48
+2022-06-18,Chloe,Shetland Sheepdog,Blue,,10
+2018-02-05,Gus,,Indigo,35,
+2021-07-20,Stella,Maltese,Violet,,4
+2019-02-15,Sam,Rottweiler,Red,,46
+2020-04-25,Layla,Shih Tzu,Orange,,7
+2017-08-15,Bentley,German Shorthaired Pointer,,60,28
+2022-02-25,Willow,,Green,58,
+2018-05-08,Dakota,Australian Cattle Dog,,48,20
+2021-03-08,Milo,Corgi,Indigo,,12
+2019-10-02,Roxy,American Staffordshire Terrier,Violet,48,
+2020-12-08,Shadow,,Red,55,
+2017-06-20,Ginger,Cocker Spaniel,Orange,38,
+2022-05-10,Apollo,Weimaraner,,65,
+2018-02-10,Maggie,Bichon Frise,Green,28,
+2021-08-15,Oscar,Shiba Inu,,40,10
+2019-01-28,Rosie,,Indigo,35,
+2020-03-18,Winston,English Bulldog,Violet,,24
+2017-09-28,Frankie,Golden Retriever,,60,
+2022-07-05,Daisy,,Orange,,29
+2018-04-12,Gunner,German Shepherd,Yellow,65,
+2021-01-15,Lily,Poodle (Miniature),Green,,7
+2019-08-08,Maximus,Beagle,Blue,,14
+2020-06-25,Stella,,Indigo,40,
+2017-05-10,Koda,Siberian Husky,Violet,,24
+2022-04-30,Hazel,Dachshund,Red,22,
+2018-10-15,Rex,Rottweiler,Orange,,48
+2021-02-05,Chloe,Shih Tzu,Yellow,,6
+2019-03-30,Finn,,Green,62,
+2020-07-20,Millie,,Blue,,3
+2017-11-08,Louie,Border Collie,Indigo,53,
+2022-01-25,Piper,Pug,Violet,,9
+2018-07-28,Diesel,,Red,55,
+2021-09-08,Peanut,Chihuahua,Orange,,2
+2019-06-15,King,Great Dane,Yellow,78,
+2020-10-05,Sophie,Cavalier King Charles Spaniel,Green,,7
+2017-03-10,Bruno,,Blue,68,
+2022-03-05,Layla,French Bulldog,Indigo,,14
+2018-09-22,Boomer,Pit Bull,Violet,50,
+2021-04-20,Willow,Bichon Frise,Red,,6
+2019-05-28,Patches,,Orange,22,
+2020-11-12,Olive,Boston Terrier,Yellow,,10
+2017-01-05,Rocky,Bernese Mountain Dog,Green,,50
+2022-06-08,Loki,Shetland Sheepdog,Blue,,11
+2018-12-05,Apollo,Basset Hound,Indigo,,26
+2021-07-30,Mia,,Violet,25,
+2019-02-28,Bubba,Rottweiler,Red,,47
+2020-04-10,,Shih Tzu,Orange,27,
+2017-08-22,,German Shorthaired Pointer,Yellow,60,
+2022-02-05,Copper,Vizsla,Green,,23
+2018-05-15,Blue,,Blue,,21
+2021-03-22,,Corgi,Indigo,30,
+2019-10-08,Smokey,American Staffordshire Terrier,Violet,,27
+2020-12-20,Spirit,Standard Poodle,,55,
+2017-06-28,Honey,Cocker Spaniel,Orange,38,
+2022-05-12,Athena,Weimaraner,,65,
+2018-02-18,Pixie,Bichon Frise,Green,,5
+2021-08-25,Kiko,,Blue,40,
+2019-01-10,Pepper,Miniature Schnauzer,Indigo,,9
+2020-03-05,Roscoe,,Violet,40,
+2017-09-15,Sunny,Golden Retriever,Red,,31
+2022-07-20,Leo,Labrador Retriever,Orange,58,
+2018-04-25,Storm,German Shepherd,,65,
+2021-01-28,Zoe,,Green,25,
+2019-08-20,Buddy,Beagle,Blue,,13
+2020-06-08,Penny,,Indigo,40,
+2017-05-22,Apollo,Siberian Husky,Violet,,22
+2022-04-08,Lucky,,Red,20,
+2018-10-30,Zeus,Rottweiler,Orange,,47
+2021-02-20,Ella,Shih Tzu,,28,
+2019-03-08,,Boxer,Green,,31
+2020-07-05,Cleo,,Blue,23,
+2017-11-18,Rocky,Border Collie,,53,
+2022-01-31,Winnie,Pug,Violet,,8
+2018-07-10,Cooper,Australian Shepherd,,55,
+2021-09-15,Princess,Chihuahua,Orange,,2
+2019-06-30,Thor,Great Dane,,80,
+2020-10-28,Willow,,Green,33,
+2017-03-15,Shadow,Doberman Pinscher,Blue,,38
+2018-08-18,Zephyr,Siberian Husky,Violet,,23
+2021-05-31,Sasha,Dachshund,Red,,
+2019-11-22,Ghost,Rottweiler,,70,
+2020-09-12,Bella,Shih Tzu,,28,
+2017-06-18,Oliver,Boxer,Green,,33
+2022-02-15,Willow,Yorkshire Terrier,Blue,,
+2018-03-05,Chloe,Border Collie,Indigo,,20
+2021-04-28,Titus,Pug,Violet,,9
+2019-10-12,Jax,Australian Shepherd,,55,
+2020-02-08,Bear,Chihuahua,Red,,
+2017-08-22,Minnie,Great Dane,Orange,,60
+2022-01-15,Storm,Cavalier King Charles Spaniel,Yellow,,7
+2018-07-30,Stella,Doberman Pinscher,,68,
+2021-03-20,Gunner,French Bulldog,Green,,14
+2019-05-05,Lola,Pit Bull,Blue,,29
+2020-06-15,Coco,Bichon Frise,,28,
+2017-04-15,Milo,Pomeranian,Violet,,4
+2022-07-22,Diesel,Boston Terrier,Red,,10
+2018-12-05,Mochi,Bernese Mountain Dog,Orange,,50
+2021-08-10,Apollo,Shetland Sheepdog,Yellow,,11
+2019-02-28,Luna,Basset Hound,Green,,26
+2020-04-05,Titan,Maltese,Blue,,5
+2017-09-25,Jasper,Rottweiler,Indigo,,47
+2022-02-22,Kona,Shih Tzu,Violet,,6
+2018-06-10,Lily,German Shorthaired Pointer,Red,,29
+2021-01-08,Winston,Vizsla,Orange,,23
+2019-08-15,Piper,Australian Cattle Dog,Yellow,,21
+2020-07-31,Hank,Corgi,Green,,13
+2017-10-05,Layla,American Staffordshire Terrier,Blue,,27
+2022-05-20,Bentley,Standard Poodle,Indigo,,25
+2018-01-18,Willow,Cocker Spaniel,Violet,,14
+2021-06-05,Jack,Weimaraner,Red,,36
+2019-04-10,Penny,Bichon Frise,Orange,,5
+2020-03-28,Oscar,Shiba Inu,Yellow,,11
+2017-11-10,Lucy,Miniature Schnauzer,,35,9
+2022-03-12,Toby,English Bulldog,,40,25
+2018-09-08,Daisy,Golden Retriever,Orange,,31
+2021-05-15,Molly,Labrador Retriever,,58,30
+2019-01-22,Max,German Shepherd,Yellow,65,40
+2020-08-20,Chloe,Poodle (Toy),Green,25,4
+2017-02-18,Gus,Beagle,Blue,38,13
+2022-04-20,Chloe,Bulldog,Indigo,40,24
+2018-10-08,Dakota,Siberian Husky,Violet,55,22
+2021-03-12,Penny,Dachshund,Red,20,8
+2019-09-08,Gizmo,Rottweiler,Orange,70,47
+2020-01-20,Molly,Shih Tzu,Yellow,28,7
+2017-07-18,Rocky,Boxer,Green,62,31
+2022-05-05,Sophie,Yorkshire Terrier,Blue,23,4
+2018-11-18,Patches,Border Collie,Indigo,53,18
+2021-04-15,Cleo,Pug,Violet,30,8
+2019-06-22,Molly,Australian Shepherd,Red,55,24
+2020-10-22,Zephyr,Chihuahua,Orange,18,2
+2017-05-28,Thor,Great Dane,Yellow,80,62
+2022-01-22,Ruby,Cavalier King Charles Spaniel,Green,33,6
+2018-04-30,Shadow,Doberman Pinscher,Blue,68,38
+2021-07-22,Layla,French Bulldog,Indigo,32,14
+2019-03-29,Cooper,Pit Bull,Violet,50,29
+2020-02-28,Lucy,Bichon Frise,Red,28,6
+2017-10-28,Piper,Pomeranian,Orange,22,4
+2022-06-28,Layla,Boston Terrier,Yellow,38,10
+2018-08-12,Zeus,Bernese Mountain Dog,Green,70,50
+2021-09-18,Milo,Shetland Sheepdog,Blue,42,11
+2019-02-25,Mochi,Basset Hound,Indigo,36,26
+2020-04-22,Stella,Maltese,Violet,25,5
+2017-08-08,Daisy,Rottweiler,Red,68,47
+2022-02-20,Chloe,Shih Tzu,Orange,27,6
+2018-05-30,Louie,German Shorthaired Pointer,Yellow,60,29
+2021-03-29,Toby,Vizsla,Green,58,23
+2019-10-31,Rex,Australian Cattle Dog,Blue,48,21
+2020-12-30,Ginger,Corgi,Indigo,30,13
