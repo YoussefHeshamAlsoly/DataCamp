@@ -40,3 +40,12 @@ git pull origin main
 git merge *branch_to_be_merged_into_main*
 git push origin main
 ```
+
+```cmd
+git checkout branch_to_be_merged_into_main
+git pull origin branch_to_be_merged_into_main
+git checkout main
+git pull origin main
+git merge branch_to_be_merged_into_main
+git push origin main
+```
